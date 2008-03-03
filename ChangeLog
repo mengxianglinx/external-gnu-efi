@@ -1130,7 +1130,7 @@ Date:   Tue Jun 25 08:47:03 2013 -0400
           from Intel and based on 3.0c-1
 
 2008-02-22  Nigel Croxon <nigel.croxon@hp.com>
-	* Added '-mno-red-zone' to x68_64 compiles.
+	* Added '-mno-red-zone' to x86_64 compiles.
 	Patch provided by Mats Andersson.
 
 2008-01-23  Nigel Croxon <nigel.croxon@hp.com>
